@@ -1,0 +1,12 @@
+export const POST_STAFF = 'POST_STAFF';
+export const POST_STAFF_SUCCESS = 'POST_STAFF_SUCCESS';
+export const POST_STAFF_ERROR = 'POST_STAFF_ERROR';
+
+export const PUT_STAFF = 'PUT_STAFF';
+export const PUT_STAFF_SUCCESS = 'PUT_STAFF_SUCCESS';
+export const PUT_STAFF_ERROR = 'PUT_STAFF_ERROR';
+
+export const GET_STAFF = 'GET_STAFF';
+export const GET_STAFF_SUCCESS = 'GET_STAFF_SUCCESS';
+export const GET_STAFF_ERROR = 'GET_STAFF_ERROR';
+
